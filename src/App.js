@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import './styles/App.css';
 import { Switch, Route } from "react-router-dom";
-import exComponent from './components/exComponent';
+import exComponent from "./components/exComponent";
 
 
 export default class App extends Component {
